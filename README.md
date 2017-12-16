@@ -12,8 +12,10 @@ Note that this example Arduino sketch requires the [FastLED library](https://git
 
 #### Coming soon-ish:
   + better adjustment for varying sound volume levels across different types of content
-  + something
-  + something more
+  + custom gradients
+  + settings that will actually get saved
+  + hue shift slider
+  + a buton that will enable the LEDs to display different pattrens when there is no sound so the LEDs could also be used to light up the room
 
 ---
 
