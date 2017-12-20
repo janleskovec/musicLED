@@ -15,7 +15,7 @@ Note that this example Arduino sketch requires the [FastLED library](https://git
   + custom gradients
   + settings that will actually get saved
   + hue shift slider
-  + a buton that will enable the LEDs to display different pattrens when there is no sound so the LEDs could also be used to light up the room
+  + a button that will enable the LEDs to display different pattrens when there is no sound so the LEDs could also be used to light up the room
 
 ---
 
